@@ -1,15 +1,12 @@
 # Redis test suite. Copyright (C) 2009 Salvatore Sanfilippo antirez@gmail.com
 # This softare is released under the BSD License. See the COPYING file for
 # more information.
-set tcl_precision 17
-set tcl_precision 17
-set tcl_precision 17
+# set tcl_precision 17
+# set tcl_precision 17
+# set tcl_precision 17
 
-set tcl_precision 17
-set tcl_precision 17
-
-
-
+# set tcl_precision 17
+# set tcl_precision 17
 set tcl_precision 17
 source tests/support/redis.tcl
 source tests/support/server.tcl
